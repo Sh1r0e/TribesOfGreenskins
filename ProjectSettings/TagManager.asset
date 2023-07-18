@@ -47,3 +47,6 @@ TagManager:
   - name: Characters
     uniqueID: 1416238555
     locked: 0
+  - name: Resources
+    uniqueID: 1140246975
+    locked: 0

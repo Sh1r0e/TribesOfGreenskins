@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ResourceNode : Collidable, IInteractable
+public class ResourceNode : Collidable
 {
     public BoxCollider2D boxCollider;
     public string resourceType;
